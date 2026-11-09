@@ -1,10 +1,10 @@
 # PAST-YEAR-PAPER-downloader-and-compiler
 ## Astris Downloader
-Downloads and compiles past papers for CIE exams such as IGCSE and A levels.
+Downloads and compiles past papers for CIE exams like IGCSE and A_Levels.
 #
 ### Collaborators
-Mohammad Saadaan [https://github.com/strawdile]  
-MD Rakibul Hasan [https://github.com/mdrakibulhasan615]
+MD Rakibul Hasan [https://github.com/mdrakibulhasan615]  
+Mohammad Saadaan [https://github.com/strawdile]
 #
 ### 🔑 Google Sheets API Setup
 This application logs compiled master PDF metadata directly to a central Google Sheet via a Google Cloud Service Account.
