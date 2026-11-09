@@ -3,7 +3,7 @@
 Downloads and compiles past papers for CIE exams such as IGCSE and A levels.
 #
 ### Collaborators
-Mohammad Saadaan [https://github.com/strawdile] \n
+Mohammad Saadaan [https://github.com/strawdile]  
 MD Rakibul Hasan [https://github.com/mdrakibulhasan615]
 #
 ### 🔑 Google Sheets API Setup
