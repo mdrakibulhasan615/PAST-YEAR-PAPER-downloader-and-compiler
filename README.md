@@ -1,6 +1,6 @@
 # PAST-YEAR-PAPER-downloader-and-compiler
 ## Astris Downloader
-Downloads and compiles past papers for CIE exams like IGCSE and A_Levels.
+Downloads and compiles past papers for CIE exams like IGCSE and A-Levels.
 #
 ### Collaborators
 MD Rakibul Hasan [https://github.com/mdrakibulhasan615]  
